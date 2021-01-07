@@ -9,4 +9,4 @@ Teenager / Self taught programmer here to learn and make stuff.
 - Go.
 - HTML/CSS/JS.
 
-![Karem34's github stats](https://github-readme-stats.vercel.app/api?username=karem34&theme=dark)
+![Karem34's github stats](https://github-readme-stats.vercel.app/api?username=karem34&theme=github_dark)
