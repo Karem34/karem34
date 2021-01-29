@@ -6,7 +6,7 @@ Teenager / Self taught programmer here to learn and make stuff.
 #### Currently learning:
 - Python.
 - Rust.
-- Go.
+- Lua.
 - HTML/CSS/JS.
 
 ![Karem34's github stats](https://github-readme-stats.vercel.app/api?username=karem34&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=8B949E&hide_border=true)
