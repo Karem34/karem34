@@ -11,7 +11,6 @@ I am a Teenager / Self taught programmer here to learn and make stuff.
 #### Info
 - Location: Iraq/Baghdad :iraq:
 - Discord: [Karem34#5775](https://)
-- Reddit: [u/Karem34](www.reddit.com/user/karem34)
 
 #### Setup
 - OS: Linux ([Manjaro Linux](https://manjaro.org/))
