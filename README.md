@@ -14,7 +14,7 @@ I am a Teenager / Self taught programmer here to learn and make stuff.
 
 #### Setup
 - OS: Linux ([Manjaro Linux](https://manjaro.org/))
-- Window Manager: [i3](https://github.com/i3/i3)
+- Window Manager: [i3](https://github.com/i3/i3) (i3-gaps)
 - Bar: [Polybar](https://github.com/polybar/polybar)
 - file manager: [nnn](https://github.com/jarun/nnn)
 - Terminal: [Alacritty](https://github.com/alacritty/alacritty)
